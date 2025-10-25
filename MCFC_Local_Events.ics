@@ -1,0 +1,565 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MCFC Local Games Calendar//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:Manchester City v Tottenham Hotspur - Premier League
+DTSTART:20250823T113000Z
+DTEND:20250823T133000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/mens/man-city-v-s
+ purs-23-aug-2025\n\nCity's home campaign opens with defeat: https://www.ma
+ ncity.com/news/mens/manchester-city-v-tottenham-match-report-premier-leagu
+ e-23-august-63891544\nCity v Tottenham Hotspur: Kick-off time\, team news 
+ and TV information: https://www.mancity.com/news/mens/city-v-spurs-match-p
+ review-pl-23-aug-63890945
+LOCATION:Etihad Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Manchester United - Premier League
+DTSTART:20250914T153000Z
+DTEND:20250914T173000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/mens/man-city-v-m
+ an-united-13-sept-2025\n\nDerby delight for City after Foden strike and Ha
+ aland double: https://www.mancity.com/news/mens/manchester-city-v-manchest
+ er-united-14-september-63893464\nCity v Manchester United: Kick-off time\,
+  team news and TV information: https://www.mancity.com/news/mens/mancheste
+ r-city-v-manchester-united-match-preview-september-2025-63892858
+LOCATION:Etihad Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Burnley - Premier League
+DTSTART:20250927T140000Z
+DTEND:20250927T160000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/mens/man-city-v-b
+ urnley-27-sept-2025\n\nLate Haaland brace rounds off five-star victory ove
+ r Burnley: https://www.mancity.com/news/mens/manchester-city-v-burnley-pre
+ mier-league-match-report-1-63894574\nCity v Burnley: Kick-off time\, team 
+ news and TV information: https://www.mancity.com/news/mens/city-v-burnley-
+ match-preview-63894330
+LOCATION:Etihad Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Everton - Premier League
+DTSTART:20251018T140000Z
+DTEND:20251018T160000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/mens/man-city-v-e
+ verton-18-oct-2025\n\nHaaland's brace fires City into second spot: https:/
+ /www.mancity.com/news/mens/manchester-city-v-everton-premier-league-match-
+ report-october-2025-63896389\nCity v Everton: Kick-off time\, team news an
+ d TV information: https://www.mancity.com/news/mens/everton-home-premier-l
+ eague-match-preview-63895691
+LOCATION:Etihad Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Bournemouth - Premier League
+DTSTART:20251102T163000Z
+DTEND:20251102T183000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/mens/man-city-v-b
+ mouth-1-nov-2025\n
+LOCATION:Etihad Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Liverpool - Premier League
+DTSTART:20251109T163000Z
+DTEND:20251109T183000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/mens/man-city-v-l
+ iverpool-8-nov-2025\n
+LOCATION:Etihad Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Leeds United - Premier League
+DTSTART:20251129T150000Z
+DTEND:20251129T170000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/mens/man-city-v-l
+ eeds-29-nov-2025\n
+LOCATION:Etihad Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Sunderland - Premier League
+DTSTART:20251206T150000Z
+DTEND:20251206T170000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/mens/man-city-v-s
+ afc-6-dec-2025\n
+LOCATION:Etihad Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v West Ham United - Premier League
+DTSTART:20251220T150000Z
+DTEND:20251220T170000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/mens/man-city-v-w
+ est-ham-20-dec-2025\n
+LOCATION:Etihad Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Chelsea - Premier League
+DTSTART:20260103T150000Z
+DTEND:20260103T170000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/mens/man-city-v-c
+ helsea-3-jan-2026\n
+LOCATION:Etihad Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Brighton and Hove Albion - Premier League
+DTSTART:20260107T200000Z
+DTEND:20260107T220000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/mens/man-city-v-b
+ righton-7-jan-2026\n
+LOCATION:Etihad Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester United v Manchester City - Premier League
+DTSTART:20260117T150000Z
+DTEND:20260117T170000Z
+DESCRIPTION:
+LOCATION:Old Trafford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Wolves - Premier League
+DTSTART:20260124T150000Z
+DTEND:20260124T170000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/mens/man-city-v-w
+ olves-24-jan-2026\n
+LOCATION:Etihad Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Fulham - Premier League
+DTSTART:20260211T200000Z
+DTEND:20260211T220000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/mens/man-city-v-f
+ ulham-11-feb-2026\n
+LOCATION:Etihad Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Newcastle United - Premier League
+DTSTART:20260221T150000Z
+DTEND:20260221T170000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/mens/man-city-v-n
+ ewcastle-21-feb-2026\n
+LOCATION:Etihad Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Crystal Palace - Premier League
+DTSTART:20260321T150000Z
+DTEND:20260321T170000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/mens/man-city-v-c
+ -palace-21-mar-2026\n
+LOCATION:Etihad Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Arsenal - Premier League
+DTSTART:20260418T140000Z
+DTEND:20260418T160000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/mens/man-city-v-a
+ rsenal-18-apr-2026\n
+LOCATION:Etihad Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Nottingham Forest - Premier League
+DTSTART:20260304T200000Z
+DTEND:20260304T220000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/mens/man-city-v-n
+ -forest-4-mar-2026\n
+LOCATION:Etihad Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Brentford - Premier League
+DTSTART:20260509T140000Z
+DTEND:20260509T160000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/mens/man-city-v-b
+ rentford-9-may-2026\n
+LOCATION:Etihad Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Aston Villa - Premier League
+DTSTART:20260524T150000Z
+DTEND:20260524T170000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/mens/man-city-v-a
+ ston-villa-24-may-2026\n
+LOCATION:Etihad Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Napoli - Champions League
+DTSTART:20250918T190000Z
+DTEND:20250918T210000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/mens/man-city-v-n
+ apoli-ticket-information-2526\n\nRecord-breaking Haaland and Doku fire imp
+ ressive City to victory over Napoli: https://www.mancity.com/news/mens/man
+ chester-city-v-napoli-champions-league-report-63893814\nCity v Napoli: Kic
+ k-off time\, team news and TV information: https://www.mancity.com/news/me
+ ns/city-v-napoli-match-preview-uefa-champions-league-63893553
+LOCATION:Etihad Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Bayer 04 Leverkusen - Champions League
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/mens/man-city-v-l
+ everkusen-25-nov-2025\n
+LOCATION:Etihad Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Borussia Dortmund - Champions League
+DTSTART:20251105T200000Z
+DTEND:20251105T220000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/mens/man-city-v-b
+ vb-5-nov-2025\n
+LOCATION:Etihad Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Galatasaray - Champions League
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+DESCRIPTION:
+LOCATION:Etihad Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Brighton and Hove Albion - Barclays WSL
+DTSTART:20250912T183000Z
+DTEND:20250912T203000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/womens/man-city-v
+ -brighton-13-sept-2025\n\nCity grab first win of the season with Brighton 
+ turnaround: https://www.mancity.com/news/womens/man-city-brighton-wsl-matc
+ h-report-september-2025-63893295\nCity v Brighton: Barclays WSL kick-off t
+ ime\, team news\, match information: https://www.mancity.com/news/womens/b
+ righton-home-wsl-12-september-preview-63892935
+LOCATION:Joie Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v London City Lionesses - Barclays WSL
+DTSTART:20250928T110000Z
+DTEND:20250928T130000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/womens/man-city-v
+ -london-city-28-sept-2025\n\nBlues' winning streak continues with London C
+ ity Lionesses triumph: https://www.mancity.com/news/womens/man-city-london
+ -city-lionesses-wsl-match-report-63894651\nCity v London City Lionesses: B
+ arclays WSL kick-off time\, team news\, match information: https://www.man
+ city.com/news/womens/london-city-lionesses-home-barclays-womens-super-leag
+ ue-63894391
+LOCATION:Joie Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Arsenal - Barclays WSL
+DTSTART:20251004T110000Z
+DTEND:20251004T130000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/womens/man-city-v
+ -arsenal-3-oct-2025\n\nCity extend winning streak with dramatic Arsenal tr
+ iumph: https://www.mancity.com/news/womens/man-city-arsenal-wsl-match-repo
+ rt-october-2025-63895165\nCity v Arsenal: Barclays WSL kick-off time\, tea
+ m news\, match information: https://www.mancity.com/news/womens/city-v-ars
+ enal-wsl-match-preview-1-63894735
+LOCATION:Joie Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v West Ham United - Barclays WSL
+DTSTART:20251101T120000Z
+DTEND:20251101T140000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/womens/man-city-v
+ -west-ham-2-nov-2025\n
+LOCATION:Joie Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Manchester United - Barclays WSL
+DTSTART:20251115T133000Z
+DTEND:20251115T153000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/womens/man-city-v
+ -man-united-16-nov-2025\n
+LOCATION:Etihad Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Aston Villa - Barclays WSL
+DTSTART:20251214T120000Z
+DTEND:20251214T140000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/womens/man-city-v
+ -aston-villa-14-dec-2025\n
+LOCATION:Joie Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Everton - Barclays WSL
+DTSTART:20260111T120000Z
+DTEND:20260111T140000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/womens/man-city-v
+ -everton-11-jan-2026\n
+LOCATION:Joie Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Chelsea - Barclays WSL
+DTSTART:20260201T143000Z
+DTEND:20260201T163000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/womens/man-city-v
+ -chelsea-1-feb-2026\n
+LOCATION:Etihad Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Leicester City - Barclays WSL
+DTSTART:20260215T120000Z
+DTEND:20260215T140000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/womens/man-city-v
+ -leicester-15-feb-2026\n
+LOCATION:Joie Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Tottenham Hotspur - Barclays WSL
+DTSTART:20260322T120000Z
+DTEND:20260322T140000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/womens/man-city-v
+ -spurs-22-mar-2026\n
+LOCATION:Joie Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester United v Manchester City - Barclays WSL
+DTSTART:20260329T120000Z
+DTEND:20260329T140000Z
+DESCRIPTION:
+LOCATION:Old Trafford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Liverpool - Barclays WSL
+DTSTART:20260503T110000Z
+DTEND:20260503T130000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/womens/man-city-v
+ -liverpool-3-may-2026\n
+LOCATION:Joie Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Everton - FA Women's League Cup
+DTSTART:20250924T180000Z
+DTEND:20250924T200000Z
+DESCRIPTION:Buy tickets: https://www.mancity.com/tickets/womens/man-city-v
+ -everton-24-sept-2025\n\nCity begin League Cup campaign with sweet Toffees
+  triumph : https://www.mancity.com/news/womens/man-city-everton-subway-lea
+ gue-cup-match-report-63894326\nCity v Everton: Subway League Cup Match Pre
+ view: https://www.mancity.com/news/womens/man-city-everton-league-cup-matc
+ h-preview-63893995
+LOCATION:Joie Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Leeds United - Premier League U18
+DTSTART:20250816T103000Z
+DTEND:20250816T123000Z
+DESCRIPTION:\nCity claim five star opening day victory over Leeds: https:/
+ /www.mancity.com/news/eds-academy/city-v-leeds-u18-premier-league-north-16
+ th-august-63890929
+LOCATION:City Football Academy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Blackburn Rovers - Premier League U18
+DTSTART:20250830T100000Z
+DTEND:20250830T120000Z
+DESCRIPTION:\nCity in seventh heaven after comprehensive Under-18 win over
+  Blackburn: https://www.mancity.com/news/eds-academy/city-v-blackburn-u18s
+ -match-report-63892139
+LOCATION:City Football Academy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Newcastle United - Premier League U18
+DTSTART:20260131T123000Z
+DTEND:20260131T143000Z
+DESCRIPTION:
+LOCATION:City Football Academy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Liverpool - Premier League U18
+DTSTART:20251018T100000Z
+DTEND:20251018T120000Z
+DESCRIPTION:\nCity U18s fall to first league defeat of season: https://www
+ .mancity.com/news/eds-academy/city-liverpool-under-18-premier-league-north
+ -match-report-202526-63896375
+LOCATION:City Football Academy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Burnley U18 - Premier League U18
+DTSTART:20251101T110000Z
+DTEND:20251101T130000Z
+DESCRIPTION:
+LOCATION:City Football Academy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Nottingham Forest - Premier League U18
+DTSTART:20251129T110000Z
+DTEND:20251129T130000Z
+DESCRIPTION:
+LOCATION:City Football Academy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Everton - Premier League U18
+DTSTART:20251213T110000Z
+DTEND:20251213T130000Z
+DESCRIPTION:
+LOCATION:City Football Academy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Wolves - Premier League U18
+DTSTART:20260117T120000Z
+DTEND:20260117T140000Z
+DESCRIPTION:
+LOCATION:City Football Academy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Sunderland - Premier League U18
+DTSTART:20260207T110000Z
+DTEND:20260207T130000Z
+DESCRIPTION:
+LOCATION:City Football Academy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Manchester United - Premier League U18
+DTSTART:20260214T110000Z
+DTEND:20260214T130000Z
+DESCRIPTION:
+LOCATION:City Football Academy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Stoke City - Premier League U18
+DTSTART:20260314T110000Z
+DTEND:20260314T130000Z
+DESCRIPTION:
+LOCATION:City Football Academy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Middlesbrough - Premier League U18
+DTSTART:20260411T110000Z
+DTEND:20260411T130000Z
+DESCRIPTION:
+LOCATION:City Football Academy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Derby County - Premier League U18
+DTSTART:20260502T110000Z
+DTEND:20260502T130000Z
+DESCRIPTION:
+LOCATION:City Football Academy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Chelsea - Premier League U18 Cup
+DTSTART:20251004T100000Z
+DTEND:20251004T120000Z
+DESCRIPTION:\nCity continue unbeaten streak with PL Cup victory over Chels
+ ea: https://www.mancity.com/news/eds-academy/u18s-v-chelsea-pl-cup-6389516
+ 6
+LOCATION:City Football Academy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Sheffield United - Premier League U18 Cup
+DTSTART:20251122T110000Z
+DTEND:20251122T130000Z
+DESCRIPTION:
+LOCATION:City Football Academy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v West Ham United - Premier League 2
+DTSTART:20250822T180000Z
+DTEND:20250822T200000Z
+DESCRIPTION:Buy tickets: https://tickets.mancity.com/en-GB/categories/EDS%
+ 20Tickets\n\nCityâs EDS put on dominant display in PL2 win over West 
+ Ham : https://www.mancity.com/news/eds-academy/city-eds-west-ham-premier-l
+ eague-2-match-report-202526-63891483
+LOCATION:City Football Academy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Reading U21 - Premier League 2
+DTSTART:20251005T110000Z
+DTEND:20251005T130000Z
+DESCRIPTION:Buy tickets: https://tickets.mancity.com/en-GB/categories/EDS%
+ 20Tickets\n\nDominant City climb PL2 table after Reading triumph: https://
+ www.mancity.com/news/eds-academy/city-v-reading-premier-league-2-match-rep
+ ort-202526-63895251
+LOCATION:City Football Academy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Southampton - Premier League 2
+DTSTART:20250926T180000Z
+DTEND:20250926T200000Z
+DESCRIPTION:Buy tickets: https://tickets.mancity.com/en-GB/categories/EDS%
+ 20Tickets\n\nCityâs EDS fight back to earn a point in PL2 thriller wi
+ th Southampton: https://www.mancity.com/news/eds-academy/city-southampton-
+ match-report-premier-league-2-63894504
+LOCATION:City Football Academy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Leicester City - Premier League 2
+DTSTART:20251031T190000Z
+DTEND:20251031T210000Z
+DESCRIPTION:Buy tickets: https://tickets.mancity.com/en-GB/categories/EDS%
+ 20Tickets\n
+LOCATION:City Football Academy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Burnley - Premier League 2
+DTSTART:20260110T190000Z
+DTEND:20260110T210000Z
+DESCRIPTION:
+LOCATION:City Football Academy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Leeds United - Premier League 2
+DTSTART:20260207T190000Z
+DTEND:20260207T210000Z
+DESCRIPTION:
+LOCATION:City Football Academy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Wolves - Premier League 2
+DTSTART:20260220T190000Z
+DTEND:20260220T210000Z
+DESCRIPTION:
+LOCATION:City Football Academy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Nottingham Forest - Premier League 2
+DTSTART:20260227T190000Z
+DTEND:20260227T210000Z
+DESCRIPTION:
+LOCATION:City Football Academy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Liverpool - Premier League 2
+DTSTART:20260313T190000Z
+DTEND:20260313T210000Z
+DESCRIPTION:
+LOCATION:City Football Academy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Norwich City - Premier League 2
+DTSTART:20260410T180000Z
+DTEND:20260410T200000Z
+DESCRIPTION:
+LOCATION:City Football Academy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Real Madrid - Premier League International Cup
+DTSTART:20251216T190000Z
+DTEND:20251216T210000Z
+DESCRIPTION:
+LOCATION:Joie Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v RB Leipzig - Premier League International Cup
+DTSTART:20260114T190000Z
+DTEND:20260114T210000Z
+DESCRIPTION:
+LOCATION:Joie Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v AS Monaco FC - Premier League International Cup
+DTSTART:20260120T190000Z
+DTEND:20260120T210000Z
+DESCRIPTION:
+LOCATION:Joie Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v PSV Eindhoven - Premier League International Cup
+DTSTART:20251128T190000Z
+DTEND:20251128T210000Z
+DESCRIPTION:
+LOCATION:Joie Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manchester City v Napoli - UEFA Youth League
+DTSTART:20250918T140000Z
+DTEND:20250918T160000Z
+DESCRIPTION:Buy tickets: https://tickets.mancity.com/en-GB/events/manchest
+ er%20city%20u19%20v%20napoli/2025-9-18_15.00/joie%20stadium?hallmap\n\nCit
+ y kick off UEFA Youth League campaign with Napoli win : https://www.mancit
+ y.com/news/eds-academy/city-napoli-match-report-uefa-youth-league-63893800
+LOCATION:Joie Stadium
+END:VEVENT
+END:VCALENDAR
